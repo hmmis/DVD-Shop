@@ -1,0 +1,5 @@
+H:\BOOK\S10\ATP2\DVD_Shop\DVD_Shop\bin\DVD_Shop.dll
+H:\BOOK\S10\ATP2\DVD_Shop\DVD_Shop\bin\DVD_Shop.pdb
+H:\BOOK\S10\ATP2\DVD_Shop\DVD_Shop\obj\Debug\ResolveAssemblyReference.cache
+H:\BOOK\S10\ATP2\DVD_Shop\DVD_Shop\obj\Debug\DVD_Shop.dll
+H:\BOOK\S10\ATP2\DVD_Shop\DVD_Shop\obj\Debug\DVD_Shop.pdb
